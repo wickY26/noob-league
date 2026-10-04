@@ -1,0 +1,219 @@
+{
+  "id": 1,
+  "name": "Sezon 1",
+  "startedAt": "2026-10-03T18:53:20.736Z",
+  "endedAt": "2026-10-03T19:26:25.829Z",
+  "days": [
+    {
+      "id": "d1-2026-10-03",
+      "startedAt": "2026-10-03T18:54:09.858Z",
+      "endedAt": "2026-10-03T19:24:35.085Z"
+    }
+  ],
+  "matches": [
+    {
+      "teams": [
+        {
+          "goals": 4,
+          "players": [
+            {
+              "player": "endieych",
+              "score": 595,
+              "goals": 2,
+              "assists": 1,
+              "saves": 1,
+              "shots": 6
+            },
+            {
+              "player": "damdakideli",
+              "score": 550,
+              "goals": 2,
+              "assists": 0,
+              "saves": 0,
+              "shots": 6
+            }
+          ]
+        },
+        {
+          "goals": 3,
+          "players": [
+            {
+              "player": "orkuno",
+              "score": 648,
+              "goals": 1,
+              "assists": 2,
+              "saves": 4,
+              "shots": 4
+            },
+            {
+              "player": "wicky26",
+              "score": 394,
+              "goals": 2,
+              "assists": 0,
+              "saves": 0,
+              "shots": 3
+            }
+          ]
+        }
+      ],
+      "winner": 0,
+      "seriesEnd": true,
+      "id": "20261003185539-35314b",
+      "dayId": "d1-2026-10-03",
+      "recordedAt": "2026-10-03T18:55:39.809Z"
+    },
+    {
+      "teams": [
+        {
+          "goals": 3,
+          "players": [
+            {
+              "player": "endieych",
+              "score": 1032,
+              "goals": 3,
+              "assists": 0,
+              "saves": 6,
+              "shots": 7
+            },
+            {
+              "player": "damdakideli",
+              "score": 369,
+              "goals": 0,
+              "assists": 1,
+              "saves": 2,
+              "shots": 2
+            }
+          ]
+        },
+        {
+          "goals": 1,
+          "players": [
+            {
+              "player": "wicky26",
+              "score": 566,
+              "goals": 1,
+              "assists": 0,
+              "saves": 3,
+              "shots": 7
+            },
+            {
+              "player": "orkuno",
+              "score": 214,
+              "goals": 0,
+              "assists": 0,
+              "saves": 0,
+              "shots": 2
+            }
+          ]
+        }
+      ],
+      "winner": 0,
+      "seriesEnd": false,
+      "id": "20261003190301-982422",
+      "dayId": "d1-2026-10-03",
+      "recordedAt": "2026-10-03T19:03:01.825Z"
+    },
+    {
+      "teams": [
+        {
+          "goals": 5,
+          "players": [
+            {
+              "player": "orkuno",
+              "score": 671,
+              "goals": 4,
+              "assists": 0,
+              "saves": 0,
+              "shots": 4
+            },
+            {
+              "player": "wicky26",
+              "score": 565,
+              "goals": 1,
+              "assists": 1,
+              "saves": 2,
+              "shots": 4
+            }
+          ]
+        },
+        {
+          "goals": 4,
+          "players": [
+            {
+              "player": "endieych",
+              "score": 500,
+              "goals": 2,
+              "assists": 0,
+              "saves": 1,
+              "shots": 4
+            },
+            {
+              "player": "damdakideli",
+              "score": 483,
+              "goals": 2,
+              "assists": 0,
+              "saves": 1,
+              "shots": 4
+            }
+          ]
+        }
+      ],
+      "winner": 0,
+      "seriesEnd": false,
+      "id": "20261003191200-9a8a58",
+      "dayId": "d1-2026-10-03",
+      "recordedAt": "2026-10-03T19:12:00.338Z"
+    },
+    {
+      "teams": [
+        {
+          "goals": 3,
+          "players": [
+            {
+              "player": "wicky26",
+              "score": 675,
+              "goals": 2,
+              "assists": 1,
+              "saves": 1,
+              "shots": 6
+            },
+            {
+              "player": "orkuno",
+              "score": 481,
+              "goals": 1,
+              "assists": 1,
+              "saves": 2,
+              "shots": 4
+            }
+          ]
+        },
+        {
+          "goals": 2,
+          "players": [
+            {
+              "player": "endieych",
+              "score": 594,
+              "goals": 1,
+              "assists": 1,
+              "saves": 2,
+              "shots": 4
+            },
+            {
+              "player": "damdakideli",
+              "score": 489,
+              "goals": 1,
+              "assists": 1,
+              "saves": 2,
+              "shots": 2
+            }
+          ]
+        }
+      ],
+      "winner": 0,
+      "seriesEnd": true,
+      "id": "20261003192041-fe9042",
+      "dayId": "d1-2026-10-03",
+      "recordedAt": "2026-10-03T19:20:41.952Z"
+    }
+  ]
+}
