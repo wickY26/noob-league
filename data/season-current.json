@@ -3,6 +3,12 @@
   "name": "Sezon 1",
   "startedAt": "2026-10-03T19:28:41.954Z",
   "endedAt": null,
-  "days": [],
+  "days": [
+    {
+      "id": "d1-2026-10-04",
+      "startedAt": "2026-10-04T19:22:43.486Z",
+      "endedAt": null
+    }
+  ],
   "matches": []
 }
