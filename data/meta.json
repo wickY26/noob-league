@@ -1,10 +1,18 @@
 {
-  "updatedAt": "2026-10-12T18:57:44.293Z",
+  "updatedAt": "2026-10-12T18:58:10.990Z",
   "players": [
     "endieych",
     "wicky26",
     "orkuno",
     "damdakideli"
   ],
-  "archive": []
+  "archive": [
+    {
+      "id": 1,
+      "name": "Sezon 1",
+      "startedAt": "2026-10-03T19:28:41.954Z",
+      "endedAt": "2026-10-12T18:58:05.966Z",
+      "matches": 99
+    }
+  ]
 }
