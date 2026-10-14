@@ -10,5 +10,57 @@
       "endedAt": null
     }
   ],
-  "matches": []
+  "matches": [
+    {
+      "teams": [
+        {
+          "goals": 3,
+          "players": [
+            {
+              "player": "endieych",
+              "score": 667,
+              "goals": 2,
+              "assists": 1,
+              "saves": 2,
+              "shots": 7
+            },
+            {
+              "player": "damdakideli",
+              "score": 347,
+              "goals": 1,
+              "assists": 0,
+              "saves": 2,
+              "shots": 2
+            }
+          ]
+        },
+        {
+          "goals": 2,
+          "players": [
+            {
+              "player": "orkuno",
+              "score": 488,
+              "goals": 2,
+              "assists": 0,
+              "saves": 2,
+              "shots": 4
+            },
+            {
+              "player": "wicky26",
+              "score": 340,
+              "goals": 0,
+              "assists": 1,
+              "saves": 2,
+              "shots": 4
+            }
+          ]
+        }
+      ],
+      "winner": 0,
+      "seriesEnd": false,
+      "id": "20261014162904-ee740d",
+      "dayId": "d1-2026-10-14",
+      "recordedAt": "2026-10-14T16:29:04.340Z"
+    }
+  ]
 }
