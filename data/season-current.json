@@ -2429,6 +2429,57 @@
       "id": "20261017204835-1b6aa4",
       "dayId": "d5-2026-10-17",
       "recordedAt": "2026-10-17T20:48:35.729Z"
+    },
+    {
+      "teams": [
+        {
+          "goals": 4,
+          "players": [
+            {
+              "player": "wicky26",
+              "score": 788,
+              "goals": 4,
+              "assists": 0,
+              "saves": 2,
+              "shots": 6
+            },
+            {
+              "player": "damdakideli",
+              "score": 365,
+              "goals": 0,
+              "assists": 1,
+              "saves": 2,
+              "shots": 0
+            }
+          ]
+        },
+        {
+          "goals": 2,
+          "players": [
+            {
+              "player": "endieych",
+              "score": 381,
+              "goals": 1,
+              "assists": 0,
+              "saves": 1,
+              "shots": 5
+            },
+            {
+              "player": "orkuno",
+              "score": 332,
+              "goals": 1,
+              "assists": 1,
+              "saves": 0,
+              "shots": 4
+            }
+          ]
+        }
+      ],
+      "winner": 0,
+      "seriesEnd": false,
+      "id": "20261017205613-fc0033",
+      "dayId": "d5-2026-10-17",
+      "recordedAt": "2026-10-17T20:56:13.695Z"
     }
   ]
 }
