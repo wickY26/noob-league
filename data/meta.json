@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T18:08:08.275Z",
+  "updatedAt": "2026-11-23T18:09:28.183Z",
   "players": [
     "endieych",
     "wicky26",
@@ -7,6 +7,13 @@
     "damdakideli"
   ],
   "archive": [
+    {
+      "id": 2,
+      "name": "Sezon 2",
+      "startedAt": "2026-10-12T18:58:05.966Z",
+      "endedAt": "2026-11-23T18:09:22.966Z",
+      "matches": 92
+    },
     {
       "id": 1,
       "name": "Sezon 1",
